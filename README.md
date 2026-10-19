@@ -8,7 +8,6 @@ Cada projecto é desenhado para comunicar valor com clareza, carregar depressa e
 
 | Projecto | Sector | Tecnologia | Site |
 | --- | --- | --- | --- |
-| Modular Construção | Construção modular | Next.js · TypeScript · Tailwind | [Visitar](https://www.modularconstrucao.pt) |
 | EletroSantos Pro | Serviços eléctricos | Next.js · TypeScript · Tailwind | [Visitar](https://www.eletrosantos-pro.pt) |
 | Latina Grill | Restauração | Next.js · TypeScript · Tailwind | [Visitar](https://www.latinagrill.pt) |
 | PC Work Vertical | Trabalhos em altura | HTML · CSS · JavaScript | [Visitar](https://pcworkvertical.pt) |
